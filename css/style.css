@@ -1,0 +1,32 @@
+.jumbotron {
+
+}
+#welcome-section{
+  padding-top: 300px;
+  background-color: rgb(112, 240, 229);
+  height: 100vh;
+  text-align: center;
+
+}
+#projects {
+  background-color: rgb(112, 240, 229);
+}
+footer {
+  background-color: rgb(14, 199, 183);
+}
+section {
+  padding-top: 5rem;
+}
+#sosialmedia {
+  background-color: rgb(14, 199, 183);
+ 
+}
+#sosialmedia ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 40px;
+  margin-right: 25px;
+}
+#sosialmedia ul li a{
+  color: white;
+}
